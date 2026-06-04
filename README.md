@@ -30,7 +30,7 @@ Python • Git • GitHub • Data Structures & Algorithms • PyTorch • FastA
 
 ## Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Coming Soon
+* GitHub: https://github.com/Maganpreet-11
+* LinkedIn: https://www.linkedin.com/in/maganpreet-singh-2b1a82317/
 
 > "Small progress every day compounds into extraordinary results."
